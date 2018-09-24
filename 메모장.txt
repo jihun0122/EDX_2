@@ -1,0 +1,5 @@
+$ git status
+$ git add .
+$ git commit -m "EDX"
+$ git remote add origin https://github.com/jihun0122/EDX_2.git
+$ git push -u origin master
